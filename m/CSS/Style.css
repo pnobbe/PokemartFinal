@@ -1,0 +1,655 @@
+@font-face {
+    font-family: Pokemon;
+    src: url('/Resources/Fonts/PokemonGB.ttf');
+}
+
+blockquote, textarea {
+    margin-top: 5px;
+    font-family: Pokemon;
+    background-color: white;
+    border-style: ridge;
+    border-width: 6px;
+    max-height: 200px;
+    overflow-y: scroll;
+}
+
+.descriptionArea {
+    width: 100%;
+    height: 150px;
+}
+
+p {
+    overflow: hidden;
+}
+
+body {
+    background-color: white;
+}
+
+.small {
+    width: 15%;
+}
+
+.comparison {
+    background-color: white;
+    font-size: large;
+    text-align: center;
+}
+
+.comparison > thead > tr > th {
+    text-align: center;
+    width: auto !important;
+}
+
+.comparison > tbody > tr:hover {
+    background-color: rgba(200, 241, 255, 0.99) !important;
+}
+
+/* Profile container */
+.profile {
+    margin: 20px 0;
+}
+
+/* Profile sidebar */
+.profile-sidebar {
+    padding: 20px 0 10px 0;
+    background: #fff;
+}
+
+.profile-userpic img {
+    float: none;
+    margin: 0 auto;
+    width: 50%;
+    height: 50%;
+    -webkit-border-radius: 50% !important;
+    -moz-border-radius: 50% !important;
+    border-radius: 50% !important;
+}
+
+.profile-usertitle {
+    text-align: center;
+    margin-top: 20px;
+}
+
+.profile-usertitle-name {
+    color: #5a7391;
+    font-size: 16px;
+    font-weight: 600;
+    margin-bottom: 7px;
+}
+
+.profile-usertitle-job {
+    text-transform: uppercase;
+    color: #5b9bd1;
+    font-size: 12px;
+    font-weight: 600;
+    margin-bottom: 15px;
+}
+
+.profile-userbuttons {
+    text-align: center;
+    margin-top: 10px;
+}
+
+.profile-userbuttons .btn {
+    text-transform: uppercase;
+    font-size: 11px;
+    font-weight: 600;
+    padding: 6px 15px;
+    margin-right: 5px;
+}
+
+.close {
+    float: none;
+    font-size: 43px;
+}
+
+.profile-userbuttons .btn:last-child {
+    margin-right: 0px;
+}
+
+.profile-usermenu {
+    margin-top: 30px;
+}
+
+.profile-usermenu ul li {
+    border-bottom: 1px solid #f0f4f7;
+}
+
+.profile-usermenu ul li:last-child {
+    border-bottom: none;
+}
+
+.profile-usermenu ul li a {
+    color: #93a3b5;
+    font-size: 14px;
+    font-weight: 400;
+}
+
+.profile-usermenu ul li a i {
+    margin-right: 8px;
+    font-size: 14px;
+}
+
+.profile-usermenu ul li a:hover {
+    background-color: #fafcfd;
+    color: #5b9bd1;
+}
+
+.profile-usermenu ul li.active {
+    border-bottom: none;
+}
+
+.profile-usermenu ul li.active a {
+    color: #5b9bd1;
+    background-color: #f6f9fb;
+    border-left: 2px solid #5b9bd1;
+    margin-left: -2px;
+}
+
+/* Profile Content */
+.profile-content {
+    padding: 20px;
+    background: #fff;
+    min-height: 460px;
+}
+
+/* Header Image Background - Change the URL below to your image path (example: ../images/background.jpg) */
+
+.business-header {
+    background-size: 100% auto;
+    height: 320px;
+    background: url('/Resources/Images/banner.png') center center no-repeat scroll;
+    -webkit-background-size: 100% auto;
+    -moz-background-size: 100% auto;
+    -o-background-size: 100% auto;
+}
+
+/* Customize the text color and shadow color and to optimize text legibility. */
+
+.tagline {
+    text-shadow: 0 0 10px #000;
+    color: #fff;
+}
+
+.img-center {
+    margin: 0 auto;
+    max-height: 125px;
+    height: 125px;
+    width: auto;
+}
+
+#loginbox {
+    margin-top: 30px;
+}
+
+#loginbox > div:first-child {
+    padding-bottom: 10px;
+}
+
+.iconmelon {
+    display: block;
+    position: absolute;
+}
+
+#form > div {
+    margin-bottom: 25px;
+}
+
+#form > div:last-child {
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+
+.panel {
+    background-color: transparent;
+}
+
+.panel-body {
+    padding-top: 30px;
+    background-color: rgba(2555, 255, 255, .3);
+}
+
+#particles {
+    width: 100%;
+    height: 100%;
+    overflow: hidden;
+    top: 0;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    position: absolute;
+    z-index: -2;
+    color: red;
+}
+
+input[type="date"]:before {
+    width: 100%;
+    content: attr(placeholder);
+    background-color: #FFFFFF;
+    color: #666666;
+}
+
+input[type="date"]:hover::before {
+    width: 0%;
+    content: "";
+}
+
+.iconmelon,
+.im {
+    position: relative;
+    left: 50%;
+    display: block;
+    fill: #525151;
+    margin-left: -142px;
+}
+
+.iconmelon:after,
+.im:after {
+    content: '';
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+}
+
+.footer {
+    position: absolute;
+    bottom: 0;
+    width: 100%;
+    height: 60px;
+    background-color: #f5f5f5;
+}
+
+#search {
+    background-color: white;
+}
+
+#draggablePanelList .panel-heading {
+    cursor: move;
+}
+
+.navbar-default .navbar-nav > .open > a {
+    background-color: #bbd8ff !important;
+}
+
+.navbar-brand > img {
+    max-height: 40px;
+    width: auto;
+    vertical-align: middle;
+    -webkit-filter: brightness(0) invert(1);
+    filter: brightness(0) invert(1);
+}
+
+.navbar-brand > img:hover {
+    max-height: 40px;
+    width: auto;
+    vertical-align: middle;
+    -webkit-filter: grayscale(0%) brightness(1);
+    filter: grayscale(0%) brightness(1);
+}
+
+.about {
+    margin-left: 50px;
+    margin-right: 50px;
+    font-size: large;
+    color: #192967;
+}
+
+.errorHead {
+    text-align: center;
+}
+
+.error > img {
+    position: relative;
+}
+
+.error > a > img {
+    position: relative;
+}
+
+.error > i {
+    font-size: small;
+}
+
+.error {
+    margin-left: 20px;
+    margin-right: 20px;
+    font-size: large;
+    text-align: center;
+}
+
+.about > h4 {
+    color: #576EC5;
+}
+
+.flat-header {
+    color: white;
+    background-color: #6699FF;
+}
+
+.flat-red {
+    color: rgba(255, 100, 104, 1);
+}
+
+.flat-green {
+    color: rgba(71, 176, 77, 1);
+}
+
+.subcategory {
+    padding: 10px;
+    background-color: white;
+    color: #666666;
+}
+
+.all {
+    background-color: #bed7ff;
+}
+
+.subcategory:hover {
+    background-color: #ffffff;
+}
+
+.navbar,
+.navbar-default .navbar-nav > li > a {
+    color: white;
+}
+
+.navbar,
+.navbar-default .navbar-nav > li > a:hover {
+    color: #003399;
+}
+
+.navbar {
+    background-color: #6699FF;
+}
+
+.breadcrumb > li > a {
+    color: #6699FF;
+}
+
+.flat-caption > h4 {
+    color: #6699FF;
+}
+
+.flat-caption > h4 > a {
+    color: #6699FF;
+}
+
+.flat-button {
+    border-radius: 0px !important;
+}
+
+.flat-lightblue {
+    background-color: #6699FF;
+    color: white;
+}
+
+.panel-group .panel {
+    background-color: #6699FF;
+    border-radius: 0px !important;
+    color: white !important;
+}
+
+.address {
+    color: #636363 !important;
+}
+
+.orderinfo {
+    color: #636363 !important;
+    background-color: white !important;
+}
+
+.panel-group .panel + .panel {
+    border-top: 1px solid #aad1ff;
+    margin-top: 0px;
+}
+
+.flat-lightgreen {
+    background-color: #e2ffd9;
+}
+
+.flat-lighterblue {
+    background-color: #bbd8ff;
+}
+
+.flat-lightblue > .header {
+    color: white;
+}
+
+.flat-darkblue {
+    background-color: #003399;
+}
+
+.flat-blue {
+    background-color: #3366CC;
+}
+
+blockquote {
+    margin: 0 0 0px;
+}
+
+.caption-full > h4 {
+    color: white;
+    background-color: #6699FF;
+    padding-top: 11.5px;
+    padding-bottom: 11.5px;
+    margin-top: 0px;
+    margin-bottom: 0px;
+}
+
+.caption-full > h4 > a {
+    color: white;
+    margin-left: 15px;
+}
+
+.caption-full {
+}
+
+.navbar-brand {
+    padding: 13px 15px;
+}
+
+.badge {
+    padding-left: 9px;
+    padding-right: 9px;
+    -webkit-border-radius: 9px;
+    -moz-border-radius: 9px;
+    border-radius: 9px;
+}
+
+.panel-primary > .panel-heading {
+    background-color: #589FDE;
+    border-color: #589FDE;
+}
+
+.panel-primary {
+    border-color: #589FDE;
+}
+
+.btn-primary {
+    background-color: #589FDE;
+    border-color: #589FDE;
+}
+
+.cart {
+    font-size: large;
+    color: white;
+}
+
+.header {
+    font-size: 35px;
+}
+
+.black {
+    color: black;
+}
+
+.dropdown-submenu {
+    position: relative;
+}
+
+.dropdown-submenu > .dropdown-menu {
+    top: 0;
+    left: 100%;
+    margin-top: -6px;
+    margin-left: -1px;
+    -webkit-border-radius: 0 6px 6px 6px;
+    -moz-border-radius: 0 6px 6px;
+    border-radius: 0 6px 6px 6px;
+}
+
+.dropdown-submenu:hover > .dropdown-menu {
+    display: block;
+}
+
+.dropdown-submenu > a:after {
+    display: block;
+    content: " ";
+    float: right;
+    width: 0;
+    height: 0;
+    border-color: transparent;
+    border-style: solid;
+    border-width: 5px 0 5px 5px;
+    border-left-color: #ccc;
+    margin-top: 5px;
+    margin-right: -10px;
+}
+
+.dropdown-submenu:hover > a:after {
+    border-left-color: #fff;
+}
+
+.dropdown-submenu.pull-left {
+    float: none;
+}
+
+.dropdown-submenu.pull-left > .dropdown-menu {
+    left: -100%;
+    margin-left: 10px;
+    -webkit-border-radius: 6px 0 6px 6px;
+    -moz-border-radius: 6px 0 6px 6px;
+    border-radius: 6px 0 6px 6px;
+}
+
+.smallcart {
+    color: white;
+    margin-right: 10px;
+}
+
+.smallcart:hover {
+    text-decoration: none;
+}
+
+.addbutton {
+    display: block;
+    width: 100%;
+}
+
+.addbutton > .text {
+    padding-left: 10px;
+}
+
+.padleft {
+    padding-left: 20%;
+}
+
+.dropdown-cart-content {
+    display: none;
+    position: absolute;
+    background-color: #f9f9f9;
+    min-width: 160px;
+    box-shadow: 0px 8px 16px 0px rgba(0, 0, 0, 0.2);
+    left: -100px;
+}
+
+.dropdown-cart:hover .dropdown-cart-content {
+    display: block;
+}
+
+.dropdown-cart-content {
+    z-index: 9001;
+}
+
+.bigCart {
+    min-width: 400px;
+}
+
+.smallInput {
+    margin-left: 10px;
+    width: 50px;
+}
+
+.cartTable img {
+    width: 50px;
+}
+
+a:hover {
+    text-decoration: none !important;
+}
+
+.category {
+    padding: 0px;
+}
+
+.small {
+    margin: 0px !important;
+}
+
+.addToWishlist {
+    margin-top: 5px;
+    font-size: 13px !important;
+    float: right;
+}
+
+.addToWishlist button {
+    margin: 0 10px 0 10px;
+    font-size: 13px;
+}
+
+.compare {
+    position: absolute;
+    margin-top: 5px;
+    font-size: 13px !important;
+    float: right;
+}
+
+.compare button {
+    margin: 0 10px 0 10px;
+    font-size: 13px;
+}
+
+.titanic {
+    float: none;
+}
+
+.titanic-1911 {
+    float: right;
+}
+
+.breadcrumb {
+    margin-bottom: 5px;
+}
+
+.navbar {
+    margin-bottom: 0px;
+}
+
+form {
+    margin-bottom: 0px !important;
+}
+
+.sameline {
+    display: initial;
+}
+
+.panel-title > a, .panel-title > small, .panel-title > .small, .panel-title > small > a, .panel-title > .small > a {
+    color: white;
+}
+
+.white {
+    color: white;
+}
+

@@ -1,0 +1,42 @@
+De volgende design principes hebben wij afgesproken om toe te passen:
+
+TABEL:
+    p-GebruikerID
+    p-ProductID
+    timestamp
+    rating
+    text
+
+
+TODO
+Winkelwagen beheer = marius
+
+Productpagina = Patrick
+profiel beheren (adressen enzz) = Patrick
+Betalen = Marius
+Kenmerken = Marius
+CMS = Marius
+
+TODO
+Productpagina = Patrick
+profiel beheren (adressen enzz) = PAtrick
+Vergelijken = Patrick
+About pagina = Patrick
+Home = Patrick
+TODO
+
+*---Security---*
+Alles valideert met PHP
+
+*---Style---*
+- Functies met een kleine letters (zoals in Java)
+
+
+TODO ASK JASPER:
+About - Pagina of footer? Welke content?
+Navigatiemenu via db - helemaal of alleen catalogus?
+Plaatjes groot en klein - 1 plaatje voor beide?
+
+
+
+Patrick Nobbe & Marius de Vogel

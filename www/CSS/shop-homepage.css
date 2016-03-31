@@ -1,0 +1,78 @@
+ * Start Bootstrap - Shop Homepage HTML Template (http://startbootstrap.com)
+ * Code licensed under the Apache License v2.0.
+ * For details, see http://www.apache.org/licenses/LICENSE-2.0.
+ */
+
+.slide-image {
+    width: 100%;
+}
+
+.carousel-holder {
+    margin-bottom: 30px;
+}
+
+.carousel-control,
+.item {
+    border-radius: 4px;
+}
+
+.caption {
+    height: 130px;
+    overflow: hidden;
+}
+
+.caption h4 {
+    white-space: nowrap;
+}
+
+.thumbnail {
+    height: 350px; !important
+    width: auto;
+    position: relative;
+}
+
+.clean {
+    border: 0px;
+    background-color: inherit;
+}
+
+.thumbnail > img {
+    max-height: 350px;
+}
+
+.info {
+    bottom: 0px;
+    position: absolute;
+    width: 100%;
+}
+
+.imageWrapper > img {
+    position: absolute;
+    top: 0; bottom:0; left: 0; right:0;
+    margin: auto;
+    max-height: 150px; !important
+}
+
+.imageWrapper {
+    position: relative;
+    height: 50%;
+}
+
+.ratings {
+    padding-right: 10px;
+    padding-left: 10px;
+    color: #d17581;
+}
+
+.thumbnail {
+    padding: 0;
+}
+
+.thumbnail .caption-full {
+    padding: 9px;
+    color: #333;
+}
+
+footer {
+    margin: 50px 0;
+}

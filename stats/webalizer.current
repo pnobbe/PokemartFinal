@@ -1,0 +1,920 @@
+# Webalizer V2.23-08 Incremental Data - 03/30/2016 23:57:31
+2016 3 30 23 57 31
+33206 23105 86 103 100 57 517634862 7658 220 0
+8 36 1437 11 30
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+1160 377 6633435 8 143 10
+2175 645 10415861 3 217 5
+898 318 5991415 2 135 5
+5 0 0 1 5 2
+345 263 6890927 17 98 18
+1242 885 22676630 8 183 12
+147 109 2661957 5 32 9
+54 46 1003844 3 22 3
+925 592 9678987 3 255 8
+1589 1058 16592598 14 489 17
+3113 1792 25881186 4 1024 22
+213 162 3045035 6 81 8
+2888 2087 62947580 3 443 7
+926 590 15412663 8 366 10
+5554 4174 60470557 7 1306 7
+2545 2247 40269750 16 512 18
+3090 2796 53732726 6 545 8
+5635 4457 149958167 18 1470 31
+279 178 6334308 6 174 9
+423 329 17037236 8 158 12
+0 0 0 0 0 0
+736 512 5964790 226
+153 151 2401080 59
+66 60 2112887 11
+0 0 0 0
+0 0 0 0
+1 1 23668 1
+61 61 371327 12
+67 67 524538 13
+253 190 3539154 92
+1184 662 14574596 315
+1029 566 9481106 310
+974 679 13769285 346
+1563 1213 21854677 466
+2643 2053 45775617 623
+2945 1896 27931904 751
+2916 2189 41961062 677
+4716 3158 52738425 806
+3883 1879 39665372 653
+3925 2953 77826210 770
+2045 1626 36337265 445
+1608 1457 77343928 371
+611 452 15549058 187
+759 592 13411475 231
+1068 688 14477438 293
+0
+0
+0
+23105
+0
+0
+0
+0
+0
+18
+0
+0
+161
+766
+7896
+0
+0
+5
+0
+0
+0
+969
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+238
+0
+0
+48
+0
+0
+# -urls- 
+/Resources/Images/bidoof.gif
+1 112 0 13224640 0 0
+/CSS/toastr.min.css
+0 1706 0 6706167 0 0
+/Resources/Images/1.png
+1 55 0 171666 0 0
+/Order/order/setOrder
+0 7 0 70903 0 0
+/ca
+0 2 0 7746 0 0
+/Resources/Images/Berries/rawstberry.png
+1 170 0 9583650 0 0
+/Resources/Images/Berries/cheriberry.jpg
+1 365 0 2807624 0 0
+/Account/action
+0 82 0 1777900 0 2
+/JS/jquery.toaster.js
+0 25 0 9176 0 0
+/admin/p
+0 527 0 8676491 1 3
+/Catalogue
+0 40 0 640890 3 1
+/catalogue/added
+0 1 0 26348 0 0
+/timesheet
+0 11 0 239734 0 2
+/Resources/Images/Pokeballs/ultraball.png
+1 761 0 21249558 0 0
+/Resources/Images/banner.png
+1 197 0 57701700 0 0
+/Resources/favicon.ico
+0 45 0 51750 0 0
+/Resources/Images/Berries/razzberry.jpg
+1 148 0 1018160 0 0
+/catalogue/JS/toastr.min.js
+0 24 0 692640 0 0
+/Catalogue/subcat
+0 467 0 9238891 18 23
+/Order
+0 225 0 2243740 0 1
+/Resources/Images/Pokeballs/loveball.png
+1 633 0 20080746 0 0
+/Catalogue/JS/toastr.min.js
+0 79 0 2051300 0 0
+/Admi
+0 1 0 3368 0 0
+/about
+0 144 0 1493534 1 2
+/Resources/Images/happyeaster.gif
+1 85 0 42845358 0 0
+/Resources/Images/HeldItems/waterstone.png
+1 215 0 795254 0 0
+/fwe3fuhhf
+0 37 0 292008 0 0
+/Resources/Images/error.gif
+1 80 0 16906866 0 0
+/Resources/Images/29.png
+1 1 0 66943 0 0
+/Resources/Images/HeldItems/moonstone.png
+1 94 0 208420 0 0
+/admin.
+0 1 0 8361 0 0
+/Resources/Images/flute.png
+1 55 0 201600 0 0
+/Resources/Images/Berries/sitrusberry.jpg
+1 232 0 1524718 0 0
+/Resources/Images/Berries/blukberry.png
+1 100 0 5702325 0 0
+/Admin/p
+0 299 0 7101398 0 3
+/catalogue/subcat
+0 388 0 6762107 2 4
+/admin/action
+0 3 0 59241 0 0
+/admin/cat
+0 32 0 440750 0 0
+/Admin
+0 81 0 2746531 0 2
+/CSS/Style.css
+0 2513 0 11488694 0 0
+/favicon.ico
+0 5581 0 47659868 0 0
+/account/JS/toastr.min.js
+0 4 0 188389 0 0
+/accoun
+0 1 0 9198 0 0
+/CSS/shop-homepage.css
+0 2052 0 1373932 0 0
+/catalogue/cat
+0 390 0 7939751 7 2
+/Resources/Images/30.png
+1 2 0 69417 0 0
+/admin/
+0 2 0 19541 0 0
+/Resources/Images/Berries/leppaberry.jpg
+1 52 0 359214 0 0
+/Account
+0 34 0 1361822 1 2
+/Resources/Images/HeldItems/deepseascale.png
+1 793 0 1404508 0 0
+/Resources/Fonts/PokemonGB.ttf
+0 193 0 1486448 0 0
+/Resources/Images/Berries/blukberry.jpg
+1 32 0 244647 0 0
+/page.html
+0 4 0 31216 0 0
+/cookie/cookie
+0 11 0 63721 1 1
+/admin/product
+0 16 0 107509 0 0
+/Resources/Images/Pokeballs/pokeball.png
+1 963 0 21860818 0 0
+/Resources/Images/Pokeballs/netball.png
+1 528 0 13942305 0 0
+/jquery.toaster.js
+0 2 0 13816 0 0
+/catalogue/comparison/
+0 8 0 271072 0 0
+/Resources/Images/HeldItems/shinystone.png
+1 112 0 363676 0 0
+/catalogue/comparison
+0 621 0 8264786 3 4
+/admoin
+0 3 0 24993 0 0
+/order/action
+0 12 0 463072 9 0
+/JS/toastr.min.js
+0 1559 0 5117407 0 0
+/login
+0 2 0 16210 1 0
+/Resources/Images/HeldItems/firestone.png
+1 88 0 297864 0 0
+/admin/subcat
+0 23 0 223548 0 0
+/Resources/Images/Pokeballs/repeatball.png
+1 546 0 13358532 0 0
+/Resources/Images/Pokeballs/greatball.png
+1 775 0 24331970 0 0
+/Order/JS/toastr.min.js
+0 7 0 70903 0 0
+/JS/Sortable.js
+0 3 0 39270 0 0
+/catalogue/comparisodasd
+0 2 0 101788 0 0
+/Resources/Images/HeldItems/leafstone.png
+1 114 0 406824 0 0
+/catalogue/comparison/catalogue/comparison/
+0 2 0 98721 0 0
+/Resources/Images/delivery.gif
+1 4 0 188500 0 0
+/catalogue/favicon.ico
+0 1 0 50778 0 0
+/account
+0 120 0 1399224 1 1
+/catalogue
+0 167 0 7365932 2 4
+/JS/DragPanel.js
+0 3 0 1182 0 0
+/Catalogue/product
+0 15 0 198099 0 2
+/
+0 1080 0 18811823 158 60
+/account/tab
+0 442 0 7067254 2 4
+/admin/JS/toastr.min.js
+0 288 0 2146080 0 0
+/Order/action
+0 200 0 2952539 2 3
+/Resources/Images/logo.png
+1 1989 0 8455766 0 0
+/Resources/Images/TMandHM/Fire.svg
+0 69 0 707928 0 0
+/catalogue/comparison/catalogue/JS/toastr.min.js
+0 2 0 98721 0 0
+/Admin/
+0 2 0 68120 0 0
+/admin
+0 79 0 2345495 0 0
+/Resources/Images/1.jpg
+1 3 0 1054508 0 0
+/robots.txt
+0 4 0 30968 0 0
+/Resources/Images/Pokeballs/diveball.png
+1 477 0 9823966 0 0
+/Resources/Images/Berries/leppaberry.png
+1 140 0 7164997 0 0
+/Resources/Images/Berries/magoberry.png
+1 143 0 9367447 0 0
+/account/product
+0 4 0 46973 0 1
+/catalogue/
+0 4 0 123137 0 0
+/Resources/Images/HeldItems/thunderstone.png
+1 85 0 255468 0 0
+/Resources/Images/Berries/wepearberry.png
+1 157 0 10308951 0 0
+/account/action
+0 171 0 7030804 4 5
+/Resources/Images/TMandHM/Psychic.svg
+0 92 0 1026616 0 0
+/catalogue/product
+0 637 0 9275524 1 4
+/test
+0 60 0 480640 2 0
+/www/
+0 1 0 6895 1 0
+# End Of Table - urls
+# -sites- (monthly)
+104.209.188.207
+0 4 4 64195 2 1459034766
+/catalogue/cat
+64.74.215.94
+0 61 61 371327 1 1458542482
+/catalogue/product
+89.205.225.150
+0 7 3 36013 1 1458236775
+/
+86.93.71.200
+0 43 38 1155224 4 1458157977
+/account/action
+128.30.52.70
+0 7 7 109798 2 1458914261
+/account/action
+185.26.126.112
+0 1 1 10525 1 1459181305
+/
+72.5.65.132
+0 5 4 24790 1 1458843546
+/
+177.154.145.105
+0 1 1 43837 1 1458490903
+/order/action
+145.102.81.235
+0 381 224 6581580 1 1458814855
+/catalogue/cat
+128.30.52.96
+0 8 8 84952 2 1459181326
+/
+213.73.216.87
+0 66 63 2488461 3 1459204711
+/about
+212.127.131.125
+0 51 38 779713 2 1458517456
+/catalogue/cat
+31.201.106.201
+0 36 36 1157561 2 1458076139
+/catalogue/cat
+128.30.52.71
+0 6 6 108541 3 1458914276
+/Account/action
+64.113.32.29
+0 1 1 24879 1 1458324607
+/
+84.241.195.179
+0 1 1 65409 1 1457708486
+/
+86.89.76.83
+0 33 31 1229864 1 1459018620
+/catalogue/subcat
+104.196.6.118
+0 2 2 23427 2 1459196696
+/
+64.74.215.158
+0 2 2 15410 1 1459074925
+/
+95.49.233.174
+0 2 2 46543 1 1458487127
+/order/action
+80.192.90.111
+0 47 43 2435102 1 1459199008
+/catalogue/subcat
+128.30.52.134
+0 9 9 155234 3 1459181325
+/
+107.178.194.72
+0 1 1 46543 1 1458485898
+/order/action
+185.34.33.2
+0 1 0 0 1 1458010633
+/
+92.110.145.103
+0 1840 1071 26939046 7 1459204587
+/catalogue/subcat
+188.177.109.69
+0 67 57 2619156 1 1459197626
+/catalogue
+145.102.91.15
+0 346 189 4616579 2 1458816710
+/
+84.241.196.200
+0 77 54 1029275 3 1458663829
+/
+84.27.110.227
+0 6730 4379 72577470 29 1459382250
+/
+84.241.192.123
+0 27 25 756455 1 1459019044
+/catalogue/subcat
+104.192.0.18
+0 1 1 23668 1 1457847617
+/
+145.102.80.255
+0 67 60 1805272 3 1458225096
+/catalogue/cat
+145.102.81.116
+0 402 291 5124420 1 1458570712
+/Order
+2620:101:4035:325:150:70:173:50
+0 1 1 46543 1 1458487532
+/order/action
+64.74.215.88
+0 67 67 524538 1 1459151893
+/catalogue/product
+104.45.18.178
+0 4 4 64195 2 1459034765
+/catalogue/cat
+145.48.232.209
+0 86 82 2023768 1 1458813028
+/catalogue/cat
+72.5.65.131
+0 1 1 24994 1 1458655136
+/
+84.241.194.142
+0 8 5 15853 1 1458491598
+/
+82.169.82.112
+0 27 27 716455 1 1458073800
+/catalogue/product
+84.241.192.146
+0 12 12 495222 1 1457713998
+/
+145.102.81.66
+0 2 0 0 1 1458051281
+/
+145.48.120.180
+0 1 1 65409 1 1457700516
+/
+194.171.162.60
+0 97 92 2292712 2 1459072586
+/Catalogue
+84.241.194.97
+0 48 43 928417 1 1458332779
+/catalogue/subcat
+145.102.90.39
+0 79 53 986872 1 1458660284
+/catalogue/subcat
+207.36.201.119
+0 70 70 1197486 1 1459181477
+/catalogue/cat
+213.46.57.224
+0 5 2 50548 1 1458305123
+/account/action
+83.31.181.168
+0 2 2 46659 1 1458646631
+/order/action
+64.74.215.150
+0 2 2 51497 1 1458477326
+/order/action
+107.178.194.3
+0 1 1 10428 1 1458997911
+/
+72.5.65.215
+0 1 1 10447 1 1459267245
+/
+83.84.16.228
+0 102 75 3188607 1 1459198767
+/catalogue/subcat
+62.45.65.2
+0 51 51 1329304 2 1459034787
+/catalogue/cat
+204.101.161.159
+0 7 7 119215 1 1458700114
+/order/action
+128.30.52.73
+0 9 9 183275 1 1458914328
+/Account/action
+92.69.193.141
+0 42 41 2575200 1 1459342974
+/Order
+136.243.48.86
+0 1 1 24650 1 1458053679
+/
+72.5.65.212
+0 6 4 38934 1 1458655900
+/
+84.27.75.137
+0 124 112 4363780 2 1459359412
+/catalogue
+204.13.201.137
+0 1 1 46543 1 1458485904
+/order/action
+72.5.65.213
+0 8 6 40153 2 1459283042
+/
+80.56.255.106
+0 37 35 769108 1 1458131535
+/account/action
+84.241.196.172
+0 26 10 129212 2 1458511080
+/Order
+213.46.69.6
+0 46 35 723960 1 1457803008
+/Order
+212.127.130.56
+0 34 32 1242998 1 1458958521
+/catalogue
+66.249.93.167
+0 4 4 39544 3 1459343519
+/
+178.84.255.157
+0 66 62 2894458 2 1459197926
+/catalogue/product
+213.126.105.11
+0 19 19 395846 1 1459369459
+/catalogue/product
+145.48.120.188
+0 103 88 2115321 2 1458816737
+/
+81.204.70.215
+0 97 90 3658200 3 1459196977
+/
+23.101.61.176
+0 4 4 64842 1 1459034765
+/catalogue/cat
+84.27.14.215
+0 323 240 8849443 8 1459367066
+/
+86.85.115.238
+0 57 48 2540162 1 1459196860
+/Order/action
+40.78.146.128
+0 4 4 64230 2 1459077528
+/catalogue/cat
+84.106.66.75
+0 65 60 1705950 1 1459034863
+/catalogue/subcat
+66.249.93.170
+0 1 1 1150 0 0
+-
+145.48.121.2
+0 2821 1510 21778933 25 1458570734
+/catalogue/cat
+207.244.70.35
+0 1 1 46543 1 1458486109
+/order/action
+85.151.94.50
+0 32 32 840265 1 1458074525
+/catalogue/cat
+84.241.196.65
+0 24 21 750674 1 1458958272
+/Order
+62.195.51.240
+0 48 41 2386230 1 1459199019
+/
+66.249.93.164
+0 5 5 38371 2 1459252055
+/
+107.178.194.6
+0 1 1 8145 0 0
+-
+104.196.50.245
+0 2 2 48013 2 1458074791
+/
+83.82.225.164
+0 18188 13292 312531291 37 1459366741
+/catalogue/comparison
+# End Of Table - sites (monthly)
+# -sites- (daily)
+84.27.110.227
+0 224 164 10405847 5 1459382250
+/
+92.69.193.141
+0 42 41 2575200 1 1459342974
+/Order
+84.27.75.137
+0 40 37 2236302 1 1459359412
+/catalogue
+66.249.93.167
+0 1 1 10447 1 1459343519
+/
+213.126.105.11
+0 19 19 395846 1 1459369459
+/catalogue/product
+84.27.14.215
+0 35 12 165988 2 1459367066
+/
+66.249.93.164
+0 1 1 1150 0 0
+-
+83.82.225.164
+0 61 58 1246456 1 1459366741
+/catalogue/comparison
+# End Of Table - sites (daily)
+# -referrers- 
+http://m.pokemart.nl/
+1 651
+http://www.pokemart.nl/account
+1 5
+http://pokemart.nl/catalogue/comparison
+1 3138
+http://m.pokemart.nl/Order
+1 264
+http://m.pokemart.nl/CSS/Style.css
+1 25
+http://pokemart.nl/Order/action
+1 154
+http://pokemart.nl/Resources/Images/Berries/rawstberry.png
+1 1
+http://pokemart.nl/Admin/
+1 3
+http://www.pokemart.nl/Catalogue/product
+1 1
+http://pokemart.nl/Catalogue/subcat
+1 1882
+http://pokemart.nl/catalogue/comparison/catalogue/comparison/
+1 53
+http://m.pokemart.nl/Catalogue/product
+1 14
+http://pokemart.nl/Admin
+1 33
+http://pokemart.nl/
+1 5759
+http://pokemart.nl/catalogue/subcat
+1 1179
+http://pokemart.nl/Catalogue/product
+1 30
+http://pizza-tycoon.com/
+0 1
+http://pokemart.nl/catalogue/comparison/
+1 114
+http://pokemart.nl/Order
+1 303
+http://www.pokemart.nl/Catalogue
+1 10
+http://pokemart.nl/catalogue/cat
+1 1264
+http://www.pokemart.nl/Catalogue/subcat
+1 5
+http://www.pokemart.nl/account/action
+1 11
+http://pokemart.nl/Account/action
+1 93
+http://pokemart.nl/admin.
+1 1
+http://m.pokemart.nl
+1 9
+http://pokemart.nl/login
+1 8
+http://m.pokemart.nl/admin/cat
+1 105
+http://pokemart.nl/www/index.php
+1 7
+http://m.pokemart.nl/account
+1 13
+http://pokemart.nl/account/product
+1 3
+http://m.pokemart.nl/Admin/p
+1 1368
+http://m.pokemart.nl/Admi
+1 2
+http://m.pokemart.nl/ca
+1 2
+- (Direct Request)
+0 2629
+http://m.pokemart.nl/admin/action
+1 5
+http://pokemart.nl/admin
+1 40
+about:blank
+0 3
+http://www.pokemart.nl/Account/action
+1 90
+http://www.pokemart.nl/about
+1 5
+http://m.pokemart.nl/Catalogue/subcat
+1 181
+http://www.pokemart.nl/account/tab
+1 16
+http://m.pokemart.nl/catalogue/comparison
+1 5
+http://www.pokemart.nl/Order
+1 21
+http://pokemart.nl/timesheet
+1 7
+http://m.pokemart.nl/admin/
+1 4
+http://pokemart.nl/cookie/cookie
+1 36
+http://pokemart.nl/test
+1 348
+http://m.pokemart.nl/catalogue
+1 116
+http://www.bing.com
+0 1
+http://pokemart.nl/account/action
+1 564
+http://m.pokemart.nl/Order/action
+1 530
+http://pokemart.nl/Account
+1 37
+http://m.pokemart.nl/Admin
+1 112
+http://pokemart.nl/Catalogue
+1 102
+http://www.pokemart.nl/Order/action
+1 2
+http://m.pokemart.nl/admin/subcat
+1 59
+http://m.pokemart.nl/admin/p
+1 2087
+http://pokemart.nl/about
+1 516
+http://burger-imperia.com/
+0 1
+http://m.pokemart.nl/catalogue/cat
+1 222
+http://pokemart.nl/catalogue/comparisodasd
+1 1
+http://pokemart.nl/Admin/p
+1 247
+http://pokemart.nl/CSS/Style.css
+1 298
+http://m.pokemart.nl/catalogue/product
+1 101
+http://m.pokemart.nl/catalogue/subcat
+1 169
+http://pokemart.nl/account
+1 474
+http://pokemart.nl/fwe3fuhhf
+1 113
+http://www.pokemart.nl/
+1 1066
+http://m.pokemart.nl/Catalogue
+1 3
+http://localhost/nieuws/index.php
+0 1
+http://www.pokemart.nl/catalogue/product
+1 5
+http://pokemart.nl/admin/p
+1 34
+http://m.pokemart.nl/timesheet
+1 20
+http://m.pokemart.nl/admin
+1 287
+http://pokemart.nl/account/tab
+1 2541
+http://hundejo.com/
+0 1
+http://m.pokemart.nl/catalogue/
+1 4
+http://www.pokemart.nl/cookie/cookie
+1 14
+http://pokemart.nl/catalogue/
+1 16
+http://pokemart.nl/catalogue/product
+1 2422
+http://pokemart.nl/catalogue
+1 807
+http://192.168.206.129/nieuws/
+0 2
+http://www.pokemart.nl/Account
+1 2
+http://m.pokemart.nl/account/tab
+1 16
+http://pokemart.nl
+1 5
+http://m.pokemart.nl/admoin
+1 11
+http://m.pokemart.nl/Order/order/setOrder
+1 29
+http://www.pokemart.nl/CSS/Style.css
+1 3
+http://www.pokemart.nl/catalogue
+1 58
+http://www.pokemart.nl/catalogue/subcat
+1 11
+http://m.pokemart.nl/account/action
+1 44
+http://m.pokemart.nl/about
+1 37
+http://m.pokemart.nl/page.html
+1 4
+http://m.pokemart.nl/Account
+1 21
+http://m.pokemart.nl/order/action
+1 2
+http://m.pokemart.nl/Account/action
+1 22
+http://www.pokemart.nl/catalogue/cat
+1 24
+http://pokemart.nl/catalogue//catalogue/cat
+1 1
+http://m.pokemart.nl/admin/product
+1 40
+# End Of Table - referrers
+# -agents- 
+Mozilla/5.0 (Windows; U; Windows NT 5.1; en-US; rv:x.xx) Gecko/20090504 Mozilla Firefox/3.0.2.1
+0 1
+Mozilla/5.0 (compatible; MSIE 9.0; Windows NT 6.1; WOW64; Trident/5.0; SLCC2; .NET CLR 2.0.50727; .NET CLR 3.5.30729; .NET CL
+0 3
+Mozilla/5.0 (Windows NT 6.1; Win64; x64; Trident/7.0; rv:11.0) like Gecko
+0 1
+Mozilla/5.0 (Linux; Android 6.0.1; Nexus 5X Build/MMB29Q) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/48.0.2564.95 Mobile S
+0 70
+Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/48.0.2564.116 Safari/537.36
+0 4252
+Mozilla/5.0 (Linux; Android 6.0.1; Nexus 5X Build/MMB29Q) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/49.0.2623.91 Mobile S
+0 63
+Mozilla/5.0 (Linux; Android 5.1.1; D6603 Build/23.4.A.1.264) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/49.0.2623.105 Mobi
+0 11
+Jakarta Commons-HttpClient/3.1
+0 5
+Mozilla/5.0 (Linux; Android 5.0; SM-G900P Build/LRX21T) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/48.0.2564.23 Mobile Saf
+0 75
+Mozilla/5.0 (Unknown; Linux i686) AppleWebKit/534.34 (KHTML, like Gecko) PhantomJS/1.9.0 Safari/534.34
+0 5
+Mozilla/5.0 (BB10; Touch) AppleWebKit/537.35+ (KHTML, like Gecko) Version/10.3.2.2876 Mobile Safari/537.35+
+0 1
+Mozilla/5.0 (Windows NT 6.1; WOW64; Trident/7.0; SLCC2; .NET CLR 2.0.50727; .NET CLR 3.5.30729; .NET CLR 3.0.30729; Media Cen
+0 18
+Mozilla/5.0 (Linux; U; Android 4.2.2; nl-nl; GT-I9105P Build/JDQ39) AppleWebKit/534.30 (KHTML, like Gecko) Version/4.0 Mobile
+0 12
+Mozilla/5.0 (Linux; Android 6.0.1; Nexus 5X Build/MHC19J) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/49.0.2623.105 Mobile 
+0 284
+Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/46.0.2490.76 Mobile Safa
+0 85
+Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/46.0.2490.71 Safari/537.36
+0 4
+Validator.nu/LV http://validator.w3.org/services
+0 34
+Mozilla/5.0 (X11; Ubuntu; Linux i686; rv:45.0) Gecko/20100101 Firefox/45.0
+0 51
+Mozilla/5.0 (iPhone; CPU iPhone OS 9_2_1 like Mac OS X) AppleWebKit/601.1 (KHTML, like Gecko) CriOS/49.0.2623.73 Mobile/13D15
+0 34
+Jakarta-Commons-VFS
+0 5
+Mozilla/5.0 (Windows NT 5.1) AppleWebKit/534.27+ (KHTML, like Gecko) Version/5.0.4 Safari/533.20.27
+0 128
+Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:41.0) Gecko/20100101 Firefox/41.0
+0 15
+WDG_SiteValidator/1.6.5
+0 70
+Mozilla/5.0 (Linux; Android 5.0; E2303 Build/26.1.A.3.111) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/49.0.2623.105 Mobile
+0 55
+Mozilla/4.0 (compatible; MSIE 8.0; Windows NT 5.1; .NET CLR 2.0.50727; .NET CLR 1.1.4322; .NET CLR 3.0.04506.30; .NET CLR 3.0
+0 1
+Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; SV1; .NET CLR 2.0.50727)
+0 1
+Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus 5X Build/MHC19J)
+0 1
+Validator.nu/LV
+0 1
+Mozilla/5.0 (compatible; MSIE 8.0; Windows NT 6.1; Trident/4.0; .NET CLR 2.0.50727; .NET CLR 3.5.30729; .NET CLR 3.0.30729; .
+0 1
+Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/49.0.2623.87 Safari/537.36
+0 26547
+Mozilla/4.0 (compatible; MSIE 8.0; Windows NT 5.1; Trident/4.0)
+0 1
+Mozilla/5.0 (Linux; Android 6.0.1; Nexus 5X Build/MHC19J) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/49.0.2623.91 Mobile S
+0 477
+Mozilla/5.0 (Windows NT 10.0; WOW64; rv:45.0) Gecko/20100101 Firefox/45.0
+0 65
+Mozilla/5.0 (Windows NT 6.1; WOW64; Trident/7.0; rv:11.0) like Gecko
+0 66
+Mozilla/5.0 (Linux; Android 5.1.1; SAMSUNG SM-P600 Build/LMY47X) AppleWebKit/537.36 (KHTML, like Gecko) SamsungBrowser/3.3 Ch
+0 51
+Mozilla/5.0 (Windows; U; MSIE 6.0; Windows NT 5.1; SV1; .NET CLR 2.0.50727)
+0 7
+Mozilla/5.0 (Windows; U; Windows NT 5.1; en-US; rv:x.xx) Gecko/20030504 Mozilla Firebird/0.6
+0 1
+WhatsApp/2.12.556 A
+0 1
+Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_3) AppleWebKit/601.4.4 (KHTML, like Gecko) Version/9.0.3 Safari/601.4.4
+0 151
+Mozilla/5.0 (Windows; U; MSIE 9.0; Windows NT 9.0; en-US) AppEngine-Google; (+http://code.google.com/appengine; appid: s~viru
+0 1
+Microsoft Internet Explorer
+2 17
+Mozilla/5.0 (Windows NT 6.3; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/49.0.2623.110 Safari/537.36
+0 14
+Mozilla/5.0 (Linux; Android 5.1.1; A0001 Build/LMY48Y) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/49.0.2623.105 Mobile Saf
+0 18
+Mozilla/4.2 (compatible; MSIE 7.0; Windows NT 5.2; en-US)
+0 1
+Mozilla/5.0 (Windows NT 10.0; WOW64; rv:44.0) Gecko/20100101 Firefox/44.0
+0 36
+Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/37.0.2062.120 Safari/537.36
+0 4
+Mozilla/5.0 (compatible; Discordbot/1.0; +https://discordapp.com)
+0 4
+Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/49.0.2623.87 Safari/537.36
+0 116
+Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/48.0.2564.116 Safari/537.36
+0 32
+Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/49.0.2623.75 Safari/537.36 Google Favicon
+0 10
+AppEngine-Google; (+http://code.google.com/appengine; appid: s~gyfavicon)
+0 2
+Mozilla/5.0 (Linux; Android 5.1.1; SM-P600 Build/LMY47X) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/49.0.2623.105 Safari/5
+0 96
+Mozilla/5.0 (Windows NT 6.1; WOW64) SkypeUriPreview Preview/0.5
+0 16
+Mozilla/5.0 (compatible; MSIE 10.0; Windows NT 6.1; Trident/6.0)
+0 1
+Netscape
+2 33046
+Mozilla/5.0 (Linux; Android 5.0; E2303 Build/26.1.A.2.167) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/49.0.2623.91 Mobile 
+0 41
+Mozilla/5.0 (Windows NT 6.3; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/49.0.2623.87 Safari/537.36
+0 103
+Mozilla/5.0 (Linux; Android 5.1.1; A0001 Build/LMY48Y) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/49.0.2623.91 Mobile Safa
+0 33
+W3C_Validator/1.3 http://validator.w3.org/services
+0 5
+# End Of Table - agents
+# -search strings- 
+# End Of Table - search strings
+# -usernames- 
+# End Of Table - usernames
